@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "particles.js": "^2.0.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
     "vue": "^2.6.10",
+    "vue-particles": "^1.0.9",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
